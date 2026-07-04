@@ -6,7 +6,7 @@
 document.addEventListener('visibilitychange',
     function() {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio || ISHIMWE Jean Gloire";
+            document.title = "Portfolio || IKIREZI";
         } else {
             document.title = "🙏 Come Back To Portfolio 😢";
         }
